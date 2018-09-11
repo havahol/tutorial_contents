@@ -1,0 +1,13 @@
+Vocubalary:
+
+GIS = Geographical Information Systems
+Vector = Discrete geometric entities
+feature collection = collection of collections
+unprojected coordinates = lat lon coordinates
+GeoJSON = based on JSON, and now an ISO standard
+CRS = coordinate reference system 
+GDAL = Geospatial Data Abstraction Library
+
+
+envelope = rectangle representing the bounding box
+Raster data = any pixelated (or gridded) data
