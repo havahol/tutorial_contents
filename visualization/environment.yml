@@ -13,5 +13,5 @@ dependencies:
 - seaborn
 - pyproj
 - cartopy
-
+- jupyter
 
